@@ -1,0 +1,64 @@
+.navbar-default {
+    background-color: #2b92a0;
+    /* border-color: #87cbd4; */
+    border: none;
+    border-bottom: 1px solid #117b8a;
+    border-radius: 0;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+
+.form-control {
+    border-radius: 0;
+}
+
+#searchArea {
+    margin-bottom: 15px;
+}
+
+.filter,
+.map {
+    background: rgba(229, 229, 232, 0.20);
+    border: 1px solid #b1b1b1;
+    min-height: 200px;
+}
+
+.filter > p {
+    text-align: center;
+    margin-top: 80px;
+    color: #bababa;
+}
+
+.plot-blocks {
+    border: 1px solid #bababa;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.plot-img {
+    background: #ffff00;
+    border: 1px solid #868603;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+hr{ 
+    border-top: 1px solid #ccc;
+    margin: 10px 0 0 0;
+}
+
+ol, ul {
+    padding-left: 15px;
+}
+
+.btn {
+    min-width: 100px;
+}
